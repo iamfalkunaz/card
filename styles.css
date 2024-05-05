@@ -1,0 +1,44 @@
+body{
+
+    height: 100vh;
+    min-width: 375px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.container{
+   box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+   height: 70%;
+}
+.colored-section{
+   background-color: pink;
+   text-align: center;
+
+}
+p{
+  color:grey;
+}
+.heading{
+  color: #ffffff;
+  line-height: 1.5;
+  padding-top: 2%;
+  padding-bottom: 5%;
+}
+.b-heading{
+  padding-bottom: 2%;
+}
+.sec-row{
+     text-align: center;
+
+}
+.icon {
+  color:grey ;
+  margin-bottom: 1rem;
+  z-index: 1;
+  margin: -4vh auto 0 auto;
+}
+
+.icon:hover {
+  color: #ff4c68;
+}
+#ef8172
